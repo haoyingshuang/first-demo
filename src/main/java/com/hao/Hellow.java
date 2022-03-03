@@ -7,9 +7,8 @@ public class Hellow {
         System.out.println("hellow 2");
         System.out.println("hellow 3");
         System.out.println("hellow 4");
-
         System.out.println("master test");
-
+        System.out.println("hot-fix test2");
     }
 
 }
